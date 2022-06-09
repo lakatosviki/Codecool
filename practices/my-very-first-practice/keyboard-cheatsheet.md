@@ -1,51 +1,51 @@
-|Round brackets aka parentheses      ()    (shift+8-9)
+Round brackets aka parentheses      ()    (shift+8-9)
 
-|Square brackets aka box brackets   []      (alt+FG)
+Square brackets aka box brackets   []      (alt+FG)
 
-|Curly brackets aka curly braces  {}         (alt+BN)
+Curly brackets aka curly braces  {}         (alt+BN)
 
-| Angle brackets aka chevrons    <>         (alt+íy)
+Angle brackets aka chevrons    <>         (alt+íy)
 
-|Single quote       '                     (shift+1)
+Single quote       '                     (shift+1)
 
-|Double quote        "                    (shift+2)
+Double quote        "                    (shift+2)
 
-|Backtick            `                    (alt+7)
+Backtick            `                    (alt+7)
 
-|Slash                /                   (shift+6)
+Slash                /                   (shift+6)
 
-|Backslash             \                  (alt+Q)
+Backslash             \                  (alt+Q)
 
-|Bar                  |                   (alt+W)
+Bar                  |                   (alt+W)
 
-|Tilde                 ~                    (alt+1)
+Tilde                 ~                    (alt+1)
 
-|Exclamation mark     !                  (shift+4)
+Exclamation mark     !                  (shift+4)
 
-|Question mark        ?                     (shift+,)
+Question mark        ?                     (shift+,)
 
-|At                   @                   (alt+V)
+At                   @                   (alt+V)
 
-|Hash                 #                   (alt+X)
+Hash                 #                   (alt+X)
 
-|Dollar sign          $                   (alt+é)
+Dollar sign          $                   (alt+é)
 
-|Percent              %                   (shift+5)
+Percent              %                   (shift+5)
 
-|Ampersand            &                   (alt+C)
+Ampersand            &                   (alt+C)
 
-|Asterix              *                   (alt+-)
+Asterix              *                   (alt+-)
 
-|Dash                 -                   (-)
+Dash                 -                   (-)
 
 Plus                  +                   (shift+3)
 
-|Equal                =                   (shift+7)
+Equal                =                   (shift+7)
 
-|Colon                :                   (shift+.)
+Colon                :                   (shift+.)
 
-|Semicolon            ;                   (alt+,)
+Semicolon            ;                   (alt+,)
 
-|Dot                  .
+Dot                  .
 
-|Comma                ,
+Comma                ,
